@@ -1,16 +1,22 @@
-# Reddit Classification With Natural Language Processing And Machine Learning
+<div align="center">
+    <img src="./images/CL Banner.png"/>
+</div>
+
+<h1 style="text-align:center">
+Reddit Classification With Natural Language Processing And Machine Learning
+</h1>
 
 ##### Contents:
 - [Problem Statement](#problem-statement)
 - [Background](#background)
 - [Datasets](#datasets)
-- [Data Collection](#Data-Collection)
-- [Data Cleaning](#Data-Cleaning)
-- [Preprocessing](#Preprocessing)
-- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis)
-- [Modeling](#Modeling)
-- [Conclusions](#Conclusions)
-- [Recommendations](#Recommendations)
+- [Data Collection](#data-collection)
+- [Data Cleaning](#data-cleaning)
+- [Preprocessing](#preprocessing)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
+- [Modeling](#modeling)
+- [Conclusions](#conclusions)
+- [Recommendations](#recommendations)
 
 ## Problem Statement
 Reddit has hired my team of data scientists to prototype a machine learning model that utilizes Natural Language Processing (NLP) to determine which subreddit a post originated from, only provided its content (i.e. no title, no comments, no metadata). This model will be a binary classification model for two specific subreddits using a bag-of-words approach.
